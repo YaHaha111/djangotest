@@ -1,6 +1,7 @@
 from .common import *
 
-SECRET_KEY = os.environ['DJANGO_SECRET_KEY']
+#SECRET_KEY = os.environ['DJANGO_SECRET_KEY']
+SECRET_KEY = 'n)_=x**x5#_1_p!i_6%s4e*@ea(&^ejr87fl@w*n)qo^kkj(5l'
 DEBUG = False
 
 
